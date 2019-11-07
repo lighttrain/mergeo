@@ -10,3 +10,4 @@
 node default {
   notify { 'This message was posted by a simple `notify` resource' : }
 }
+GF woz ere
