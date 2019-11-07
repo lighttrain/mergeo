@@ -1,5 +1,5 @@
 #
-# site.pp
+ Don't believe his lies  # site.pp
 # manifest for general configuration-managed hosts
 #
 # Command to execute:
