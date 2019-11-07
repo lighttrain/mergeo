@@ -9,6 +9,10 @@
 # define a single general node
 node default {
   notify { 'This message was posted by a simple `notify` resource' : }
+<<<<<<< HEAD
+}
+GF woz ere
+=======
 SSSSSIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
@@ -22,3 +26,6 @@ yyyyyyyyyyyyyyyyyy
 
 IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+>>>>>>> 2bdcdfafcbbf92c7a9724ed4180a7e9df1e22681
+
+We wer here last - nah nah na-nah nah!
