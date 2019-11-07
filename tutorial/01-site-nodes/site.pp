@@ -1,6 +1,8 @@
 #
-# site.pp you knob
-# manifes  for general configuration-managed hosts
+<<<<<<< HEAD
+ Don't believe his lies  # site.pp you knob
+# manifest for general configuration-managed hosts
+>>>>>>> 0b0d924b35986a0cca9e93be11b5815a28c47994
 #
 # Command to execute:
 #     puppet apply site.pp
@@ -16,7 +18,7 @@ GF woz ere
 SSSSSIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 
-               OLD
+yyyyyyyyyyyyyyyyyy
 
                 &
 
