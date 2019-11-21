@@ -1,1 +1,2 @@
-asdjlksadjl
+total 0
+-rw-r--r--. 1 andrew iac-data 0 Nov 21 14:35 afile.txt
