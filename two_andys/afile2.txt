@@ -1,0 +1,3 @@
+total 4
+-rw-r--r--. 1 andrew iac-data  0 Nov 21 14:36 afile2.txt
+-rw-r--r--. 1 andrew iac-data 63 Nov 21 14:35 afile.txt
